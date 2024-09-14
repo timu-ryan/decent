@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src:local("Poppins"),
+    url("../fonts/Poppins-Bold.woff2") format("woff2"),
+    url("../fonts/Poppins-Bold.woff") format("woff"),
+    url("../fonts/Poppins-Bold.eot") format("eot");
+}
+@font-face {
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src:local("Poppins"),
+    url("../fonts/Poppins-Medium.woff2") format("woff2"),
+    url("../fonts/Poppins-Medium.woff") format("woff"),
+    url("../fonts/Poppins-Medium.eot") format("eot");
+}
+@font-face {
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src:local("Poppins"),
+    url("../fonts/Poppins-Regular.woff2") format("woff2"),
+    url("../fonts/Poppins-Regular.woff") format("woff"),
+    url("../fonts/Poppins-Regular.eot") format("eot");
+}
+@font-face {
+    font-family: Poppins;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src:local("Poppins"),
+    url("../fonts/Poppins-Light.woff2") format("woff2"),
+    url("../fonts/Poppins-Light.woff") format("woff"),
+    url("../fonts/Poppins-Light.eot") format("eot");
+}
+@font-face {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src:local("DM Sans"),
+    url("../fonts/DMSans_18pt-Medium.woff2") format("woff2"),
+    url("../fonts/DMSans_18pt-Medium.woff") format("woff"),
+    url("../fonts/DMSans_18pt-Medium.eot") format("eot");
+}
+@font-face {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src:local("DM Sans"),
+    url("../fonts/DMSans_18pt-Regular.woff2") format("woff2"),
+    url("../fonts/DMSans_18pt-Regular.woff") format("woff"),
+    url("../fonts/DMSans_18pt-Regular.eot") format("eot");
+}
